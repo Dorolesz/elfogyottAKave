@@ -1,0 +1,12 @@
+#coffeeAlert {
+  font-size: 1.5rem; /* Nagyobb betűméret */
+  text-align: center; /* Középre igazítás */
+}
+.slider-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.form-range{
+  width: 50%;
+}
